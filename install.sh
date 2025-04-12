@@ -27,8 +27,8 @@ cat <<EOL > ~/.bashrc
 clear
 cat ~/.termux-logo/toxic.txt
 toilet -f big -F metal "$jinalako"
-echo -e "\033[1;32mKaribu kwenye Termux yako, ${jinalako} Toxic Edition!\033[0m"
-echo -e "\033[1;34mCreated by Kadili\033[0m"
+echo -e "\033[1;32mKaribu Termux Ulimwengu wa hackers , ${jinalako} Toxic Edition!\033[0m"
+echo -e "\033[1;34mCreated by Kadili(255hacker)\033[0m"
 PS1='${debian_chroot:+($debian_chroot)}\[\033[1;35m\]\u@\h:\w \$ \[\033[00m\]'
 EOL
 
